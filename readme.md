@@ -46,11 +46,11 @@ pip install -r requirements.txt
 
 4. **Estructura del proyecto**
 
-├── data/                # Archivos de datos utilizados por los notebooks.
+├── data/                - *Archivos de datos utilizados por los notebooks.*
 
-├── notebooks/           # Notebooks de análisis.
+├── notebooks/           - *Notebooks de análisis.*
 
-├── src/                 # Código fuente utilitario (si corresponde).
+├── src/                 - *Código fuente.*
 
 ├── requirements.txt
 
